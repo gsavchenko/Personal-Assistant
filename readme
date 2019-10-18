@@ -1,0 +1,8 @@
+------------------
+How to Run Program
+------------------
+command 'make all' to compile
+command 'make run' to run program
+command 'make test' to run unit tests
+or
+'cd bin' and 'main'
